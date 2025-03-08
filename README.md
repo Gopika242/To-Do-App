@@ -27,7 +27,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/your_username/your_todo_project.git
+git clone https://github.com/Gopika242/To-Do-App.git
 cd your_todo_project
 Create and Activate a Virtual Environment:
 
